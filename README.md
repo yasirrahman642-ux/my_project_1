@@ -1,3 +1,2 @@
 # my_project_1
-here i will make my first project using python
-author yasir rahman
+print('name : yasir rahman')
