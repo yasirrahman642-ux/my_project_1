@@ -14,5 +14,3 @@ elif operator == '/':
 elif operator == '*':
     result = num1 * num2
     print(result)
-else:
-    print("Invalid number or the operator!! try again!")
